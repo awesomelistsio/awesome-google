@@ -1,4 +1,4 @@
-# Awesome Google [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Google [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -82,10 +82,10 @@
 
 ## Related Awesome Lists
 
-- **[Awesome AI](https://github.com/awesomelistsio/awesome-ai)**
-- **[Awesome Cloud Native](https://github.com/awesomelistsio/awesome-cloud-native)**
-- **[Awesome DevOps](https://github.com/awesomelistsio/awesome-devops)**
-- **[Awesome YouTube](https://github.com/awesomelistsio/awesome-youtube)**
+- **[Awesome AI](https://github.com/brandonhimpfen/awesome-ai)**
+- **[Awesome Cloud Native](https://github.com/brandonhimpfen/awesome-cloud-native)**
+- **[Awesome DevOps](https://github.com/brandonhimpfen/awesome-devops)**
+- **[Awesome YouTube](https://github.com/brandonhimpfen/awesome-youtube)**
   
 ## Contribute
 
